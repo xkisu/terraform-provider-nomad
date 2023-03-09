@@ -1,4 +1,6 @@
-## 1.4.20 (Unreleased)
+## 1.4.20 (March 9, 2023)
+
+* Update Nomad to 1.5.0
 
 ## 1.4.19 (October 20, 2022)
 
